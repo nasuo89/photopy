@@ -1,2 +1,2 @@
-./img_dst/*
-./img_src/*
+./img_dst/*.jpg
+./img_src/*.jpg
